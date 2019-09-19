@@ -1,7 +1,7 @@
 WooCommerce Pricefiles
 ======================
 
-Generate pricefiles for integration with price comparison services.
+Generate pricefiles for integration with price comparison on https://www.buygoldonline.io
 
 For more information, visit the plugin page on WordPress.org: https://wordpress.org/plugins/woocommerce-pricefiles/
 
